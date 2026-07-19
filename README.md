@@ -19,8 +19,8 @@ A small **FastAPI** service that extracts image URLs from a shared thread page o
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/<username>/<repo-name>.git
-cd <repo-name>
+git clone https://github.com/chenwenhe12/Dola-Image-Downloader.git
+cd Dola-Image-Downloader
 
 # 2. Create a virtual environment (recommended)
 python -m venv venv
